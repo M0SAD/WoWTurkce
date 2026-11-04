@@ -24,13 +24,13 @@ Desteklenen sürümler: **Classic Era**, **Classic (Forever)** ve **Retail (Midn
 
 [`WoWTurkce-Kurulum.exe`](WoWTurkce-Kurulum.exe) dosyasını indirip çalıştırman yeterli.
 
-- Bilgisayarındaki WoW klasörlerini (`_retail_`, `_classic_era_`, `_classic_`) kendisi bulur ve addon'u hepsine kurar.
+- Bilgisayarındaki WoW sürüm klasörlerini (`_retail_`, `_classic_era_`, `_forever_` gibi) kendisi bulur ve addon'u hepsine kurar.
 - Windows ile birlikte açılır, sistem tepsisinde çalışır.
 - **Yeni sürüm çıktığında addon dosyalarını otomatik olarak günceller.** Sen hiçbir şey yapmazsın.
 - Retail'e özel dosyalar yalnızca `_retail_` klasörüne kurulur.
 - Dosyanın Özellikler → Ayrıntılar sekmesinde addon sürümü yazar.
 
-> Windows "bilinmeyen yayıncı" uyarısı verirse, program imzasız olduğu içindir. Kaynak kodu güvenle incelenebilir, program yalnızca bu depodan indirip WoW klasörlerine dosya yazar.
+> Windows "bilinmeyen yayıncı" uyarısı verebilir; program imzasız olduğu için bu normaldir. Program yalnızca bu depodan addon dosyalarını indirip WoW klasörlerine yazar.
 
 ### 2) Elle kurulum (ZIP)
 
@@ -40,7 +40,7 @@ Kurulum programını kullanmak istemiyorsan:
 2. İçindeki **`WoWTurkce`** klasörünü şu klasöre kopyala:
    - Retail: `...\World of Warcraft\_retail_\Interface\AddOns\`
    - Classic Era: `...\World of Warcraft\_classic_era_\Interface\AddOns\`
-   - Classic (Forever): `...\World of Warcraft\_classic_\Interface\AddOns\` (klasör adın farklıysa ilgili sürümün `Interface\AddOns` klasörü)
+   - Classic (Forever): `...\World of Warcraft\_forever_\Interface\AddOns\`
 3. Oyunu aç, karakter seçim ekranında **Eklentiler** bölümünden *WoWTürkçe*'nin açık olduğundan emin ol.
 
 > ⚠️ **ZIP ile kurulumda otomatik güncelleme yoktur.** Yeni sürümlerde ZIP'i tekrar indirip aynı yere atman gerekir. Otomatik güncelleme istiyorsan kurulum programını kullan.
