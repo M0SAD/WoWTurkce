@@ -1,0 +1,26 @@
+name: CurseForge'a yükle
+# GitHub'a yeni WoWTurkce.zip gönderildiğinde aynı sürümü CurseForge'a da yükler.
+# Gerekenler (Settings > Secrets and variables > Actions): secret CF_API_KEY, variable CF_PROJECT_ID.
+# İkisinden biri yoksa bu iş hiçbir şey yapmadan atlanır.
+on:
+  push:
+    branches: [main]
+    paths: ['WoWTurkce.zip']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  yukle:
+    runs-on: ubuntu-latest
+    env:
+      CF_API_KEY: ${{ secrets.CF_API_KEY }}
+      CF_PROJECT_ID: ${{ vars.CF_PROJECT_ID }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: CurseForge'a gönder
+        run: |
+          if [ -z "$CF_API_KEY" ] || [ -z "$CF_PROJECT_ID" ]; then
+            echo "CF_API_KEY veya CF_PROJECT_ID tanımlı değil; CurseForge yüklemesi atlandı."
+            exit 0
+          fi
+          python3 .github/curseforge_yukle.py
