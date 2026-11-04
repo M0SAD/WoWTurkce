@@ -1,6 +1,7 @@
-Sürüm 0.11.2
-- Büyü ve eşya adlarında parantez içinde aynı Türkçe adın tekrarlanması düzeltildi (artık İngilizcesi yazar).
-- Başarım tamamlama tarihleri gösteriliyor.
-- Sohbette başarım adlarının Türkçesi görünüyor (lonca ve grup duyuruları dahil).
-- Sohbet kutusundaki "Newcomer Chat" ipucu Türkçe.
-- Karşılama mesajı düzeltildi.
+Sürüm 0.11.3
+- Titan Panel, Auctionator, TradeSkillMaster, Bagnon, AllTheThings, BigWigs, DBM, Pawn, HandyNotes ve Details dahil çok sayıda eklentinin yazıları Türkçe (25 binden fazla yeni çeviri).
+- Titan Panel yardım sayfaları ve ipuçları tamamen Türkçe.
+- Özel yazı tipli eklentilerde ğ, ı, ş gibi Türkçe harfler kutu görünmüyor.
+- İngilizce ile Türkçe arasında titreme (ipucu, Titan, ATT pencereleri) giderildi.
+- Taşan yazılar düzeltildi.
+- Eklenti listesinde başlık "WoWTürkçe (Erkin Azcan)" oldu.
