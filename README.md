@@ -61,6 +61,30 @@ Kurulum programının arka plan izleme (`--izle`) özelliğini açarsan, oyundan
 
 **Kaldırmak istersem?** `Interface\AddOns\WoWTurkce` klasörünü sil (ve kurulum programını tepsiden çıkarıp kaldır).
 
+## Benzer bir proje: WoWTR
+
+Türkçe yama alanında [WoWTR](https://www.curseforge.com/wow/addons/wowtr) adında (Platine & Hakan YILMAZ) başka bir proje de var. **WoWTürkçe, WoWTR'den bağımsız, sıfırdan yazılmış bir projedir.** WoWTR'den hiçbir dosya, çeviri veya kod alınmadı; bu projeye başladıktan sonra WoWTR'nin varlığından haberim oldu. Her iki proje de aynı amaca hizmet ediyor; oyuncular için seçenek olması güzel.
+
+Merak edenler için, WoWTR'nin `v26.1103` arşivini inceleyip kendi arşivimle karşılaştırdım (sayılar yaklaşık, girdi sayısıyla):
+
+| Alan | WoWTR v26.1103 | WoWTürkçe |
+|---|---|---|
+| Görevler | ~36 bin | ~38 bin |
+| NPC konuşmaları, diyaloglar, altyazılar | ~207 bin | ~75 bin (artıyor) |
+| Eşya ve büyü metinleri | ~158 bin | ~240 bin |
+| Arayüz (menüler, paneller, GlobalStrings) | ayrı veri seti görmedim | ~81 bin |
+| Eşya, NPC, bölge ve zindan adları | — | ~61 bin |
+| Kitaplar | ~14 bin | ~1,4 bin |
+| **Toplam** | **~417 bin** | **~500 bin** |
+
+Toplamda daha fazla çeviri ve daha geniş bir kapsam var; arayüz, adlar, Müzayede Evi'nde Türkçe arama, Konut (Housing) gibi alanlar yalnızca WoWTürkçe'de. Karşılaştırma için örneklem aldığımda iki projenin çevirileri neredeyse hiç örtüşmedi (yüzde 1'in biraz üstü), yani çeviriler birbirinden bağımsız. NPC konuşmaları ve kitaplar gibi alanlarda ise WoWTR'nin veritabanı şu an daha dolu; bu alanları da hızla büyütüyorum. Amacım oyunu **%100 Türkçe** oynanabilir hale getirmek.
+
+## Geliştirici hakkında
+
+Merhaba, ben **Erkin Azcan**. Mesleğim öğretmenlik; boş zamanlarımda WoW oynuyorum ve oyunu Türkçe oynamak istedim. Bu yamayı bu yüzden yaptım. Proje [Claude](https://claude.ai) (Anthropic) ile birlikte geliştirildi; ama arkasında çok fazla emek ve zaman var: çeviri kaynaklarının derlenmesi, terimlerin tutarlı hale getirilmesi, her güncellemenin üç oyun sürümünde tek tek denenmesi... Hâlâ gelişiyor.
+
+Web sitem: [erkinazcan.com](https://erkinazcan.com)
+
 ---
 
 Hazırlayan: **Erkin Azcan**
