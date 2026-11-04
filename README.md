@@ -71,7 +71,7 @@ Karşına hâlâ İngilizce bir yazı çıkarsa üzülme, bu çok doğal; yukar�
 
 Merhaba, ben **Erkin Azcan**. Mesleğim öğretmenlik; boş zamanlarımda WoW oynuyorum ve oyunu Türkçe oynamak istedim. Bu yamayı bu yüzden yaptım. Proje [Claude](https://claude.ai) (Anthropic) ile birlikte geliştirildi; ama arkasında çok fazla emek ve zaman var: çeviri kaynaklarının derlenmesi, terimlerin tutarlı hale getirilmesi, her güncellemenin üç oyun sürümünde tek tek denenmesi... Hâlâ gelişiyor.
 
-Web sitem: [erkinazcan.com](https://erkinazcan.com)
+Email: erkinazcan@gmail.com
 
 ---
 
