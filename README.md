@@ -16,6 +16,15 @@ Desteklenen sürümler: **Classic Era**, **Classic (Forever)** ve **Retail (Midn
 
 ![Önce / Sonra](docs/ornek.png)
 
+## Oyundan görüntüler
+
+| | |
+|---|---|
+| ![Karakter ve eşya ipucu](docs/ekran/karakter-esya.jpg) | ![Büyü kitabı](docs/ekran/buyu-kitabi.jpg) |
+| ![Meslek tarifleri](docs/ekran/meslek-tarifler.jpg) | ![Başarımlar](docs/ekran/basarimlar.jpg) |
+| ![Görev ve harita](docs/ekran/gorev-haritasi.jpg) | ![Macera Rehberi](docs/ekran/macera-rehberi.jpg) |
+| ![Konut Paneli](docs/ekran/konut-paneli.jpg) | ![Ayarlar](docs/ekran/ayarlar.jpg) |
+
 ## Kurulum
 
 ![Kurulum](docs/kurulum.png)
