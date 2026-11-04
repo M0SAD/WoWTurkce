@@ -1,0 +1,6 @@
+Sürüm 0.11.2
+- Büyü ve eşya adlarında parantez içinde aynı Türkçe adın tekrarlanması düzeltildi (artık İngilizcesi yazar).
+- Başarım tamamlama tarihleri gösteriliyor.
+- Sohbette başarım adlarının Türkçesi görünüyor (lonca ve grup duyuruları dahil).
+- Sohbet kutusundaki "Newcomer Chat" ipucu Türkçe.
+- Karşılama mesajı düzeltildi.
