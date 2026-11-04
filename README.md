@@ -61,23 +61,11 @@ Kurulum programının arka plan izleme (`--izle`) özelliğini açarsan, oyundan
 
 **Kaldırmak istersem?** `Interface\AddOns\WoWTurkce` klasörünü sil (ve kurulum programını tepsiden çıkarıp kaldır).
 
-## Benzer bir proje: WoWTR
+## Hedefimiz
 
-Türkçe yama alanında [WoWTR](https://www.curseforge.com/wow/addons/wowtr) adında (Platine & Hakan YILMAZ) başka bir proje de var. **WoWTürkçe, WoWTR'den bağımsız, sıfırdan yazılmış bir projedir.** WoWTR'den hiçbir dosya, çeviri veya kod alınmadı; bu projeye başladıktan sonra WoWTR'nin varlığından haberim oldu. Her iki proje de aynı amaca hizmet ediyor; oyuncular için seçenek olması güzel.
+Hedefimiz oyunu baştan sona **%100 Türkçe** oynayabilmek. Şimdiye kadar menülerden görevlere, eşya ve büyü açıklamalarından NPC konuşmalarına, kitaplardan Müzayede Evi aramasına kadar büyük bir bölümünü çevirdik; ama WoW çok büyük bir oyun ve her yamayla yeni metinler ekleniyor. Yolun sonuna henüz gelmedik; çalışmalar sürüyor ve eksikler her sürümde azalıyor.
 
-Merak edenler için, WoWTR'nin `v26.1103` arşivini inceleyip kendi arşivimle karşılaştırdım (sayılar yaklaşık, girdi sayısıyla):
-
-| Alan | WoWTR v26.1103 | WoWTürkçe |
-|---|---|---|
-| Görevler | ~36 bin | ~38 bin |
-| NPC konuşmaları, diyaloglar, altyazılar | ~207 bin | ~75 bin (artıyor) |
-| Eşya ve büyü metinleri | ~158 bin | ~240 bin |
-| Arayüz (menüler, paneller, GlobalStrings) | ayrı veri seti görmedim | ~81 bin |
-| Eşya, NPC, bölge ve zindan adları | — | ~61 bin |
-| Kitaplar | ~14 bin | ~1,4 bin |
-| **Toplam** | **~417 bin** | **~500 bin** |
-
-Toplamda daha fazla çeviri ve daha geniş bir kapsam var; arayüz, adlar, Müzayede Evi'nde Türkçe arama, Konut (Housing) gibi alanlar yalnızca WoWTürkçe'de. Karşılaştırma için örneklem aldığımda iki projenin çevirileri neredeyse hiç örtüşmedi (yüzde 1'in biraz üstü), yani çeviriler birbirinden bağımsız. NPC konuşmaları ve kitaplar gibi alanlarda ise WoWTR'nin veritabanı şu an daha dolu; bu alanları da hızla büyütüyorum. Amacım oyunu **%100 Türkçe** oynanabilir hale getirmek.
+Karşına hâlâ İngilizce bir yazı çıkarsa üzülme, bu çok doğal; yukarıda anlattığım yoldan haber verirsen bir sonraki sürümde çevrilmiş olur. Desteğin için şimdiden teşekkürler.
 
 ## Geliştirici hakkında
 
