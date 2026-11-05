@@ -1,3 +1,7 @@
+Sürüm 0.11.9
+- Arayüzdeki karışık (bir satırı Türkçe) çok satırlı yazılar da satır satır çevriliyor ve yakalanıyor.
+- Tek kelimelik yazılar da artık kayda düşüyor (adlar çeviride ayıklanır).
+
 Sürüm 0.11.8
 - Çok satırlı yazılarda bir satır Türkçe olunca kalan İngilizce satırlar artık çevriliyor ve yakalanıyor (ör. Zırh Ustalığı ipucu).
 
