@@ -1,3 +1,12 @@
+Sürüm 0.12.34
+- ForeverDB.net verisinden 1.748 eşya, 235 eşya seti, 9 görev adı, 3.760 büyü adı ve yaklaşık 6.000 büyü açıklaması Türkçe. Veri kaynağı: ForeverDB.net (https://foreverdb.net).
+- Questie takipçisinde görev adları ve hedefleri ("öldürüldü") Türkçe; Questie duyuruları hem balonda hem sohbette çevriliyor.
+- Sohbette HealBot ve QuestieTrace bilgi satırları, davet/ganimet/büyü öğrenme satırları, "[Katıl: Kanal]" bağlantısı Türkçe. "You ..." ile başlayan sistem satırlarını bozan çeviri düzeltildi.
+- Beceri penceresinde silah/zırh becerilerinin yanında İngilizce adı gösterilir; savaş tablosu satırları ("Chance to Hit...") çevrildi. Sohbette "Savunma (Defense) becerin 15 oldu".
+- ForeverDB Helper rehber ve ipucu yazıları, Injured Deathguard sözleri, "yeni ekipman buldun" kutusu, FXAA Yüksek açıklaması, Details menüleri, buff adları (İngilizcesiyle), ForeverDB ve Helper başlıkları büyük harfle.
+- Tooltip, konuşma ve görev penceresindeki İngilizce-Türkçe titremeler ve iç içe giren yazılar giderildi.
+- /wtr tani ve /wtr questie tanı komutları eklendi.
+
 Sürüm 0.12.0
 - ForeverDB ve ForeverDB Helper eklentilerinin menüleri ve yazıları Türkçe (5.600'den fazla metin). Veri kaynağı: ForeverDB.net (https://foreverdb.net).
 - Forever: yaratık adları "English (Türkçe)" olarak gösterilir, görevlerde "öldürüldü" satırları Türkçe.
