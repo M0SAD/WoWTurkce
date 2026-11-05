@@ -1,3 +1,6 @@
+Sürüm 0.12.45 (güncelleyici)
+- Kurulum programı artık oyun açıkken de 20 dakikada bir güncelleme kontrol eder; yeni sürüm kurulunca oyunda /reload yazmanız yeterli.
+
 Sürüm 0.12.45
 - Skyborne (Zephras Isle) başlangıç bölgesi: NPC konuşmaları, altyazılar, diyalog seçenekleri, görev ve büyü açıklamaları Türkçe. Kamp Çadırı ve yemek tarifi açıklamaları eklendi.
 - Veri toplama arkadaşlardan da çalışıyor; gelen kayıtlar çevrilip eklentiye ekleniyor.
