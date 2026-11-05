@@ -1,3 +1,7 @@
+Sürüm 0.12.62
+- Sohbetteki büyü bağlantıları Türkçe ad + parantezde İngilizce olarak gösteriliyor (ör. Gölge Sözü: Acı (Kademe 1)).
+- Deathknell ve Skyborne NPC konuşmaları, büyü/yetenek açıklamaları ve rehber satırları için yeni çeviriler.
+
 Sürüm 0.12.60
 - Questie sohbet duyuruları (renk kodlu görev bağlantılı "slain for" / "Quest Completed") artık Türkçe.
 - Ekran ortası mesajları (ör. "Enemy Nameplates Turned On/Off") çevriliyor.
