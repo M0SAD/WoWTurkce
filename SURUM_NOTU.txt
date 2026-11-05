@@ -1,3 +1,8 @@
+Sürüm 0.12.60
+- Questie sohbet duyuruları (renk kodlu görev bağlantılı "slain for" / "Quest Completed") artık Türkçe.
+- Ekran ortası mesajları (ör. "Enemy Nameplates Turned On/Off") çevriliyor.
+- Arkadaş verilerinden 86 yeni metin, harita ipucu ve NPC adı çevirileri eklendi.
+
 Sürüm 0.12.56
 - Tam ekran taraması 5 saniyede bir, ~1 ms'lik dilimlerle ve savaşta durarak çalışır (takılmayı en aza indirir); pencere açılışı ve NPC olaylarında anında taranır.
 - Buff/debuff ipuçlarında yazı tipi atanmamış satırların hata verip çeviriyi kesmesi engellendi. /wowturkce ipucu tanı komutu eklendi.
