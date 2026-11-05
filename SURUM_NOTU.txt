@@ -1,3 +1,8 @@
+Sürüm 0.12.51
+- Performans: oyunda takılma/kasma giderildi. Arayüz taraması artık sürekli değil; pencere açılınca ve NPC/satıcı/görev olaylarında çalışır, küçük dilimlere bölünür. SetText kancası sayı ve değişmeyen yazıları atlar; ipucu alt taraması karede bir değil saniyede ~5 kez.
+- Sohbet: "You have invited..." satırı bozuk çıkıyordu, düzeltildi (eski satırlar da geçmişte onarılır). Questie güncelleme uyarıları ve "You gained: ..." Türkçe.
+- /wowturkce tani artık tarama sürelerini ve SetText kancası sayaçlarını gösterir.
+
 Sürüm 0.12.45 (güncelleyici)
 - Kurulum programı artık oyun açıkken de 20 dakikada bir güncelleme kontrol eder; yeni sürüm kurulunca oyunda /reload yazmanız yeterli.
 
