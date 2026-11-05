@@ -1,3 +1,7 @@
+Sürüm 0.12.56
+- Tam ekran taraması 5 saniyede bir, ~1 ms'lik dilimlerle ve savaşta durarak çalışır (takılmayı en aza indirir); pencere açılışı ve NPC olaylarında anında taranır.
+- Buff/debuff ipuçlarında yazı tipi atanmamış satırların hata verip çeviriyi kesmesi engellendi. /wowturkce ipucu tanı komutu eklendi.
+
 Sürüm 0.12.54
 - Sohbet ve Questie duyurularında Forever'a özgü yeni yaratıklar sözlükte olmasa da cümle Türkçe çıkar ("8/8 Hippogryph Youth öldürüldü"). Sohbet geçmişindeki eski satırlar da açılışta onarılır.
 
