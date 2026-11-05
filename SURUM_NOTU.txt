@@ -1,3 +1,7 @@
+Sürüm 0.12.45
+- Skyborne (Zephras Isle) başlangıç bölgesi: NPC konuşmaları, altyazılar, diyalog seçenekleri, görev ve büyü açıklamaları Türkçe. Kamp Çadırı ve yemek tarifi açıklamaları eklendi.
+- Veri toplama arkadaşlardan da çalışıyor; gelen kayıtlar çevrilip eklentiye ekleniyor.
+
 Sürüm 0.12.44
 - Görev metinleri artık yakalanıyor: kayıt temizliği, başlığı çevrili ama açıklaması eksik görevleri siliyordu; düzeltildi. Yakalanan ilk görev ("Karanlıkta Bir Işık") çevrildi.
 - Yeni veri toplama: oyundan çıkınca çevirisiz metinler parçalara bölünüp sunucuya gönderilir, yanıt doğrulanır ve başarısızsa yeniden denenir (eski form yöntemi sessizce başarısız oluyordu). Kapatmak için WoWTurkce.json içinde "gonder": false.
