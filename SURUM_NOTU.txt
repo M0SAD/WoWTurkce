@@ -1,7 +1,6 @@
-Sürüm 0.11.3
-- Titan Panel, Auctionator, TradeSkillMaster, Bagnon, AllTheThings, BigWigs, DBM, Pawn, HandyNotes ve Details dahil çok sayıda eklentinin yazıları Türkçe (25 binden fazla yeni çeviri).
-- Titan Panel yardım sayfaları ve ipuçları tamamen Türkçe.
-- Özel yazı tipli eklentilerde ğ, ı, ş gibi Türkçe harfler kutu görünmüyor.
-- İngilizce ile Türkçe arasında titreme (ipucu, Titan, ATT pencereleri) giderildi.
-- Taşan yazılar düzeltildi.
-- Eklenti listesinde başlık "WoWTürkçe (Erkin Azcan)" oldu.
+Sürüm 0.11.7
+- Kurulum uygulaması çevrilmemiş metinleri yeniden Google Form'a gönderebiliyor (Google'ın form sayfası değişince gönderim durmuştu).
+- Mağaza açılırken çıkan "yalnızca Blizzard arayüzüne açık eylem engellendi" uyarısına karşı mağaza pencereleri çeviriden muaf tutuldu.
+- Renk kodlu arayüz yazıları (ör. "Ellerini yerleştir ve Tamam'a tıkla") artık çevriliyor; yaklaşık 3.000 yazı etkilendi.
+- Classic Forever büyü açıklamaları (totemler, kutsamalar, tuzaklar, biçim değiştirmeler, Firestone/Spellstone vb.), istatistik penceresi, karakter ipuçları, Zephras Isle konuşmaları ve Undercity sinematik altyazıları Türkçe.
+- /wowturkce durum artık tek satır: son çeviriden beri yakalanan metin sayısı.
