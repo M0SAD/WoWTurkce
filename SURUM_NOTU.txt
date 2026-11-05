@@ -1,3 +1,13 @@
+Sürüm 0.12.0
+- ForeverDB ve ForeverDB Helper eklentilerinin menüleri ve yazıları Türkçe (5.600'den fazla metin). Veri kaynağı: ForeverDB.net (https://foreverdb.net).
+- Forever: yaratık adları "English (Türkçe)" olarak gösterilir, görevlerde "öldürüldü" satırları Türkçe.
+- Forever: 378 yeni NPC konuşması, 50 kitap/mektup sayfası, meslek eğitmeni konuşmaları, tutorial ve bölge yazıları çevrildi.
+- Forever: büyü açıklamaları, Yuva Taşı adı ve NPC unvanları eklendi.
+- Konuşma pencerelerinde yazıların birbirine girmesi giderildi.
+- Sohbette beceri artışı mesajlarında İngilizce adı da gösterilir (Topuz (Mace) becerin 10 oldu).
+- Girişteki mesajda "Erkin Azcan" tıklanınca fısıldama kutusu açılır.
+- Yarı Türkçe çok satırlı metinlerdeki İngilizce satırlar da kayda alınır ("çevir" ile çevrilir).
+
 Sürüm 0.11.9
 - Arayüzdeki karışık (bir satırı Türkçe) çok satırlı yazılar da satır satır çevriliyor ve yakalanıyor.
 - Tek kelimelik yazılar da artık kayda düşüyor (adlar çeviride ayıklanır).
