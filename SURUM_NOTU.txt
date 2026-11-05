@@ -1,3 +1,6 @@
+Sürüm 0.11.8
+- Çok satırlı yazılarda bir satır Türkçe olunca kalan İngilizce satırlar artık çevriliyor ve yakalanıyor (ör. Zırh Ustalığı ipucu).
+
 Sürüm 0.11.7
 - Kurulum uygulaması çevrilmemiş metinleri yeniden Google Form'a gönderebiliyor (Google'ın form sayfası değişince gönderim durmuştu).
 - Mağaza açılırken çıkan "yalnızca Blizzard arayüzüne açık eylem engellendi" uyarısına karşı mağaza pencereleri çeviriden muaf tutuldu.
