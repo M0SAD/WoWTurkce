@@ -1,3 +1,9 @@
+Sürüm 0.12.44
+- Görev metinleri artık yakalanıyor: kayıt temizliği, başlığı çevrili ama açıklaması eksik görevleri siliyordu; düzeltildi. Yakalanan ilk görev ("Karanlıkta Bir Işık") çevrildi.
+- Yeni veri toplama: oyundan çıkınca çevirisiz metinler parçalara bölünüp sunucuya gönderilir, yanıt doğrulanır ve başarısızsa yeniden denenir (eski form yöntemi sessizce başarısız oluyordu). Kapatmak için WoWTurkce.json içinde "gonder": false.
+- /wtr kısayolu eklendi (/wowturkce ile aynı); /wtr tani çıktısında görev yakalama bilgisi.
+- Arayüz taramasında "secret value" hatası giderildi.
+
 Sürüm 0.12.34
 - ForeverDB.net verisinden 1.748 eşya, 235 eşya seti, 9 görev adı, 3.760 büyü adı ve yaklaşık 6.000 büyü açıklaması Türkçe. Veri kaynağı: ForeverDB.net (https://foreverdb.net).
 - Questie takipçisinde görev adları ve hedefleri ("öldürüldü") Türkçe; Questie duyuruları hem balonda hem sohbette çevriliyor.
