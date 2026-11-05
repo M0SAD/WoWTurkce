@@ -1,3 +1,6 @@
+Sürüm 0.12.54
+- Sohbet ve Questie duyurularında Forever'a özgü yeni yaratıklar sözlükte olmasa da cümle Türkçe çıkar ("8/8 Hippogryph Youth öldürüldü"). Sohbet geçmişindeki eski satırlar da açılışta onarılır.
+
 Sürüm 0.12.51
 - Performans: oyunda takılma/kasma giderildi. Arayüz taraması artık sürekli değil; pencere açılınca ve NPC/satıcı/görev olaylarında çalışır, küçük dilimlere bölünür. SetText kancası sayı ve değişmeyen yazıları atlar; ipucu alt taraması karede bir değil saniyede ~5 kez.
 - Sohbet: "You have invited..." satırı bozuk çıkıyordu, düzeltildi (eski satırlar da geçmişte onarılır). Questie güncelleme uyarıları ve "You gained: ..." Türkçe.
