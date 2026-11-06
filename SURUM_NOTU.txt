@@ -1,3 +1,11 @@
+Sürüm 0.12.83
+- Komutlar sadeleştirildi: /wowturkce artık herkesin kullanacağı komutları gösteriyor.
+- Shift basılı tutup görev, konuşma, satıcı, eğitmen vb. pencereleri taşıma (konum kaydedilir, ayarlardan sıfırlanır).
+- Sohbette görev adı yazımı için yeni ayar (Türkçe / English / ikisi).
+- NPC "says:" konuşma biçimi Türkçe ("der:", "bağırır:", "fısıldar:").
+- Classic veritabanından yaklaşık 970 eksik NPC konuşma ve görev metni çevrildi; Questie günlük satırları, Call to Arms başlıkları ve karışık yazılar Türkçeleştirildi.
+- NPC görev listesi ve selamlama metinleri, kamp ateşi buff ipuçları ve meslek tarif satırları düzeltildi.
+
 Sürüm 0.12.65
 - Tirisfal Glades ve Skyborne bölgelerinden gelen yeni NPC konuşmaları, görev hedefleri, Dillinger'in raporu ve büyü açıklamaları çevrildi.
 
