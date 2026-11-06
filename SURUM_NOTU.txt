@@ -1,3 +1,6 @@
+Sürüm 0.12.65
+- Tirisfal Glades ve Skyborne bölgelerinden gelen yeni NPC konuşmaları, görev hedefleri, Dillinger'in raporu ve büyü açıklamaları çevrildi.
+
 Sürüm 0.12.64
 - "Karanlıkta Bir Işık" görevinin teslim metni ve NPC konuşma satırları çevrildi.
 
