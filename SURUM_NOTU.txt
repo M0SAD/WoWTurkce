@@ -1,3 +1,8 @@
+Sürüm 0.12.89
+- NPC unvanları (Executor -> İnfazcı, Deathguard -> Ölüm Muhafızı) görev metinlerinde ve sohbette Türkçe; "NPC adları" ayarı varsayılan açık.
+- Questie günlük satırları (kabul/tamamlama) her görev için Türkçe.
+- NPC görev listesi ve selamlama metni düzeltmeleri; yeni görev metinleri çevrildi.
+
 Sürüm 0.12.83
 - Komutlar sadeleştirildi: /wowturkce artık herkesin kullanacağı komutları gösteriyor.
 - Shift basılı tutup görev, konuşma, satıcı, eğitmen vb. pencereleri taşıma (konum kaydedilir, ayarlardan sıfırlanır).
