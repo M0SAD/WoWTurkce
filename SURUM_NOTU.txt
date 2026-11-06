@@ -1,6 +1,3 @@
-Sürüm 1.0.0
-- Eklenti klasörü baştan düzenlendi: Cekirdek, Moduller, Ozellikler, Veri (Ortak, Forever, Retail, Klasik), Medya.
-- NPC, eşya ve yaratık adları ayarlardan seçilen yazıma göre (Türkçe/English) görev metinlerinde ve ipuçlarında görünür.
-- Ayarlarda açılır menülerle ad yazımı seçimi; pencereleri Shift ile taşıma.
-- Görev takip ipucundaki özet metni Türkçe; birim çerçevesi buff ipuçları Türkçe.
-- Yeni görev ve arayüz metinleri çevrildi.
+Sürüm 1.0.1
+- Yeni görev, NPC sözü ve arayüz metinleri çevrildi (Disiplin hedef/ilerleme satırları, Maggot Eye ilanı, mektup görevi, Questie günlük satırları).
+- NPC, eşya ve yaratık adları ayardaki yazıma göre görünür; ayarlarda açılır menüler.
