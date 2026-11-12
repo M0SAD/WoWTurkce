@@ -1,3 +1,6 @@
-Sürüm 1.0.1
-- Yeni görev, NPC sözü ve arayüz metinleri çevrildi (Disiplin hedef/ilerleme satırları, Maggot Eye ilanı, mektup görevi, Questie günlük satırları).
-- NPC, eşya ve yaratık adları ayardaki yazıma göre görünür; ayarlarda açılır menüler.
+Sürüm 3.6.6
+- Forever görevlerinin uzun metinleri çevrildi: 1106 görevin açıklama, ilerleme ve bitiş yazıları.
+- Zephras NPC konuşmaları ve sözleri, diyalog seçenekleri, görev hedefleri ve sayaçları eklendi (bilgisayar kaydı ve Google Form taramasından).
+- Kamp faydaları ve yetenek şartı satırları çevrildi.
+- Yakalanan çevirisiz metinler artık sürüm değişince silinmiyor; çevrilene kadar saklanıyor.
+- Eklenti seçenek metinleri WoWTurkce'den çıkarıldı (eklentilerin kendi dosyalarında tutuluyor).
