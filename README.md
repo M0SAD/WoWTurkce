@@ -1,4 +1,4 @@
-<p align="center"><img src="docs/banner.png" alt="WoWTürkçe"></p>
+<p align="center"><img src="docs/banner-forever.png" alt="WoWTürkçe"></p>
 
 ### ⚔️ World of Warcraft'ı Türkçe oyna
 
