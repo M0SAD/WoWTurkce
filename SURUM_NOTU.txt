@@ -1,6 +1,12 @@
-Sürüm 3.6.6
-- Forever görevlerinin uzun metinleri çevrildi: 1106 görevin açıklama, ilerleme ve bitiş yazıları.
-- Zephras NPC konuşmaları ve sözleri, diyalog seçenekleri, görev hedefleri ve sayaçları eklendi (bilgisayar kaydı ve Google Form taramasından).
-- Kamp faydaları ve yetenek şartı satırları çevrildi.
-- Yakalanan çevirisiz metinler artık sürüm değişince silinmiyor; çevrilene kadar saklanıyor.
-- Eklenti seçenek metinleri WoWTurkce'den çıkarıldı (eklentilerin kendi dosyalarında tutuluyor).
+Sürüm 3.6.15
+- Başarımlar çevrildi: sınıf seviyeleri, meslekler, PVP rütbeleri, BG itibarları, Field of Honor, keşif, zindan ve Raid başarımları, Miras puanları.
+- Savaşta (ve uyku tulumunda) yetenek ipuçları artık Türkçe kalıyor.
+- Questie: harita/mini harita görev ipuçları, mob ipucundaki hedef satırları ve takip listesindeki "(Tamamlandı)" başlıkları Türkçe.
+- Görev hedeflerinde mob adları çevriliyor ("Syndicate Haydudu öldürüldü").
+- İpuçlarındaki unvanlı NPC adları oyundaki gibi ("Hancı Wiley").
+- Yeni NPC konuşmaları, sözler, seçenekler ve Warchief's Blessing açıklaması eklendi.
+- Konuşma penceresinde seçeneklerin yazının üstüne binmesi düzeltildi.
+
+WoWTurkceAddonlar 1.0.1
+- 1.0.0 paketindeki bozuk Details dosyaları düzeltildi (Details'i bozuyordu).
+- Güncel ForeverDungeonJournal, ForeverFishing, Baganator, DBM ve Details sürümleriyle uyumlu.
