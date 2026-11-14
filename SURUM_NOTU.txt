@@ -1,3 +1,13 @@
+Sürüm 3.6.29
+- Questie mini harita / harita görev ipuçları artık Türkçe (yeni Questie sürümüne uygun).
+- Görev hedeflerinde "(Tam)" yerine "(Tamamlandı)" yazıyor; yeni görev hedefleri eklendi.
+- Partide görevi alan kişi sayısı: görev günlüğü ve Questie takip listesinde [2/5] (Ayarlar > Kolaylıklar).
+- Dünya buffı adları (Savaş Beyinin Nimeti vb.) ve Warchief's Blessing açıklaması.
+- Örümcek mobları "Örümceği" olarak düzeltildi (Ridgeshade, Cinderweb, Shiverweb...).
+- Yeni NPC konuşmaları ve sözleri; oyuncu adı geçen sözler için kalıplar (Gadrin, Lazy Peon, Ula'elek, Tajarri...).
+- Season Journey ve Field of Honor başarım yazıları.
+- NPC cümlelerini bozan "teşekkür" kalıbı düzeltildi.
+
 Sürüm 3.6.15
 - Başarımlar çevrildi: sınıf seviyeleri, meslekler, PVP rütbeleri, BG itibarları, Field of Honor, keşif, zindan ve Raid başarımları, Miras puanları.
 - Savaşta (ve uyku tulumunda) yetenek ipuçları artık Türkçe kalıyor.
