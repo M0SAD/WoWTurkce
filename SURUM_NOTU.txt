@@ -1,3 +1,13 @@
+Sürüm 3.6.57
+- Retail'deki NPC konuşmaları ve sözleri artık Forever'da da kullanılıyor (yaklaşık 190.000 satır).
+- Ölüm Özeti penceresi Türkçe (Düşme, Yakın Dövüş, saldıran adları).
+- Görev hedeflerinde yarım kalan mob adları düzeltildi (764 satır); yarım çevrilen satırlar artık ilk anda Türkçe.
+- "Uşak" yerine "Hizmetkâr"; "skycutter" yerine "gök kesici"; Kelebek Tozu, Windsong Yengeç Eti gibi ad tutarlılıkları.
+- Zindan adları İngilizce bırakıldı (Excavation Site: Wetlands, Scarlet Monastery: Armory...).
+- Maden damarları (Zayıf/Zengin Bakır Damarı...), harita ulaşım işaretleri (Zephras Isle Zeplini...).
+- Sohbet: uygunsuz mesaj bildirimi, yerel savunma duyurusu ve oyuncu adı geçen yeni NPC söz kalıpları.
+- Yeni NPC konuşmaları, sözler, eşya ve büyü açıklamaları, Shal'nan ses kristali.
+
 Sürüm 3.6.29
 - Questie mini harita / harita görev ipuçları artık Türkçe (yeni Questie sürümüne uygun).
 - Görev hedeflerinde "(Tam)" yerine "(Tamamlandı)" yazıyor; yeni görev hedefleri eklendi.
