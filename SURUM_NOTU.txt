@@ -1,3 +1,8 @@
+Sürüm 3.6.80
+- Başka bir Türkçe yama projesiyle (WoWTR) birebir aynı olan çeviriler kaldırıldı; bu metinler şimdilik İngilizce görünür ve kendi çevirilerimizle yeniden doldurulacak.
+- Görev eşyalarında İngilizce kalan "Use:/Equip:" satırları için ek çeviri adımı (ör. Taze Zhevra Leşi).
+- Eklenti paketi güncellendi: Baganator, Bartender4, ForeverFishing, ForeverDungeonJournal, VuhDo ve ZPerl yeni çeviriler.
+
 Sürüm 3.6.59
 - Ekranın ortasındaki uyarı yazılarında Türkçe harfler (ş, ğ, İ) artık kutucuk olarak görünmüyor.
 - Yön okunda görev adı Türkçe ("Teslim et: Stonetalon'un Ruhları").
