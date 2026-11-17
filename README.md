@@ -2,33 +2,18 @@
 
 ### ⚔️ World of Warcraft'ı Türkçe oyna
 
-WoWTürkçe oyunu baştan sona Türkçeye çevirir: görevler, NPC konuşmaları, arayüz, eşya ve büyü ipuçları, kitaplar ve sinematik altyazılar. Oyun dosyalarına dokunmaz; yalnızca ekranda gördüğün yazıyı değiştirir ve istediğin an İngilizceye dönebilirsin.
+WoWTürkçe World of Warcraft: Forever'ı Türkçeye çevirir: arayüz, yaratık ve NPC adları, eşya adları ve eşya ipuçları. Oyun dosyalarına dokunmaz; yalnızca ekranda gördüğün yazıyı değiştirir ve istediğin an İngilizceye dönebilirsin.
 
-WoW Classic Forever için yapıldı; Classic Era ve Retail'de de çalışır.
-
-![Türkçe görev penceresi](gorseller/gorev.jpg)
+> **4.0.0 ile proje yeniden yazıldı.** Çeviriler sıfırdan, adım adım ekleniyor. Görev, NPC konuşması, büyü, kitap ve altyazı çevirileri bu sürümde yok; sonraki sürümlerde yeniden gelecek.
 
 ### 📜 Neler çevriliyor
 
-- 📖 **Görevler:** görev penceresinde, görev günlüğünde ve görev takipçisinde başlık, hedef, açıklama, ilerleme ve bitiş yazıları. Yeni Zephras ve Skyborne hikayeleri dahil tüm Forever görevleri.
-- 💬 **NPC konuşmaları:** selamlama metinleri ve konuşma seçenekleri ("Mallarına bakmak istiyorum." gibi).
-- 🗣️ **NPC sözleri:** yaratık ve NPC'lerin söylediği, bağırdığı ve duygu mesajları; hem sohbet penceresinde hem de başlarının üstündeki konuşma balonunda.
-- 🗡️ **İpuçları:** eşya statları, Kuşanınca ve Kullan satırları, hikâye yazıları, büyü ve yetenek açıklamaları.
-- 🔮 **Büyü kitabı ve büyü çubuğu:** büyü adları, dereceler ve sekmeler; aynı karede çevrildiği için titreme olmaz.
-- 🖥️ **Arayüz:** oyun ayarları, karakter penceresi, itibar ve beceriler, grup menüsü, ESC menüsü, hata mesajları ve sohbetteki sistem mesajları.
-- 📚 **Kitaplar ve mektuplar:** okunabilir eşyalar, notlar ve tabelalar.
-- 🎬 **Sinematikler:** film ve ara sahne altyazıları.
-- 🧭 **Minimap:** minimap üzerinde gezinince çıkan yaratık, NPC, bitki, maden ve görev noktası adları.
+- 🖥️ **Arayüz:** oyun ayarları, karakter penceresi, itibar ve beceriler, grup menüsü, ESC menüsü ve sistem mesajları.
+- ⚠️ **Hata ve bilgi mesajları:** ekranın ortasındaki "Yeterli mana yok", "Menzil dışında" gibi yazılar.
+- 🐗 **Yaratık ve NPC adları:** hedef çerçevesi, isim plakaları ve ipuçlarında yaratık adları ve NPC unvanları.
+- 🗡️ **Eşyalar:** eşya adları, eşya açıklamaları ve ipucu satırları (statlar, Kuşanıldığında ve Kullan satırları, set bonusları, gereksinimler).
 
-Kişi, yer, sınıf, görev, eşya ve boss adları ile boss yetenekleri İngilizce kalır; böylece diğer oyuncularla konuşabilir ve rehberlerde arama yapabilirsin. Lonca adlarına ve oyuncuların yazdıklarına asla dokunulmaz.
-
-![Görev takipçisi](gorseller/gorev-takip.jpg)
-
-![NPC konuşma penceresi](gorseller/npc-konusma.jpg)
-
-![İpucu](gorseller/ipucu.jpg)
-
-![Konuşma balonu ve sohbet](gorseller/balon.jpg)
+Kişi, yer, sınıf ve boss adları İngilizce kalır. Lonca adlarına ve oyuncuların yazdıklarına asla dokunulmaz.
 
 ### 🔤 Türkçe karakterler
 
@@ -36,20 +21,15 @@ Eklenti tam Türkçe destekli yazı tipleriyle gelir; ğ, ş, ı ve İ harfleri 
 
 ### ⌨️ İngilizcesi için Alt'ı basılı tut
 
-Alt'ı basılı tuttuğun sürece her şey İngilizce görünür, bırakınca Türkçe geri gelir. İngilizce bir rehberi takip ederken ya da bir oyuncuyla görev hakkında konuşurken çok işe yarar.
+Alt'ı basılı tuttuğun sürece arayüz yazıları İngilizce görünür, bırakınca Türkçe geri gelir. İngilizce bir rehberi takip ederken ya da bir oyuncuyla görev hakkında konuşurken çok işe yarar.
 
 ![Türkçe ve İngilizce yan yana](gorseller/alt-ingilizce.jpg)
 
 ### ✨ Kolaylıklar (hepsi isteğe bağlı)
 
-- 🦅 **Uçuş süreleri:** uçuş haritasında her noktanın süresi yazar, uçarken kalan süreyi bir çubuk gösterir. Süreler kendi uçuşlarından öğrenilir.
 - 🔨 **Satıcıda otomatik tamir ve gri eşyaları otomatik satma.**
 - 🪟 **Taşınabilir pencereler:** Shift'i basılı tutup görev, konuşma ve satıcı pencerelerini istediğin yere sürükle.
 - 🤫 **Sessiz giriş:** diğer eklentilerin sohbete yazdığı "yüklendi" mesajlarını gizle.
-
-![Uçuş haritası](gorseller/ucus-1.jpg)
-
-![Uçuş süreleri](gorseller/ucus-2.jpg)
 
 ### ⚙️ Ayarlar ve komutlar
 
@@ -62,9 +42,9 @@ Ayarları Oyun Menüsü > Ayarlar > AddOns > WoWTürkçe'den ya da minimap düğ
 | /wtr | Durum ve yardım |
 | /wtr ayar | Ayarlar panelini aç |
 | /wtr tr, /wtr en | Türkçeyi aç ya da her şeyi İngilizce göster |
-| /wtr konum | İpucunun yerini değiştir (fare, orta alt, sağ üst…) |
 | /wtr pencere sifirla | Taşınan pencereleri eski yerine döndür |
 | /wtr paylas | Çevrilmemiş metinleri yapımcıya gönder |
+| /wt yaratik, /wt esya | Yaratık ya da eşya çevirisini aç/kapat |
 
 Minimap düğmesi: sol tık ayarları açar, sağ tık Türkçe ile İngilizce arasında geçer, Shift+sol tık çevrilmemiş metinleri gönderir.
 

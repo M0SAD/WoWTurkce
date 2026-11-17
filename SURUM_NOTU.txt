@@ -1,3 +1,10 @@
+Sürüm 4.0.0
+- Proje yeniden yazıldı. Çeviriler sıfırdan, adım adım ekleniyor.
+- Yaratık ve NPC adları ile unvanları Türkçe (hedef, isim plakası, ipucu).
+- Eşya adları (yaklaşık 22.000), eşya açıklamaları ve ipucu satırları (statlar, Kuşanıldığında/Kullan, set bonusları, gereksinimler) Türkçe.
+- Arayüz ve hata/bilgi mesajı çevirileri, Türkçe harf destekli yazı tipleri, ayarlar paneli, minimap düğmesi ve "Çevrilmemişleri Gönder" korundu.
+- Görev, NPC konuşması, büyü, kitap ve altyazı çevirileri bu sürümde yok; sonraki sürümlerde yeniden gelecek.
+
 Sürüm 3.6.80
 - Başka bir Türkçe yama projesiyle (WoWTR) birebir aynı olan çeviriler kaldırıldı; bu metinler şimdilik İngilizce görünür ve kendi çevirilerimizle yeniden doldurulacak.
 - Görev eşyalarında İngilizce kalan "Use:/Equip:" satırları için ek çeviri adımı (ör. Taze Zhevra Leşi).
