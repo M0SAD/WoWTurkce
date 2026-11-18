@@ -4,7 +4,6 @@
 
 WoWTürkçe World of Warcraft: Forever'ı Türkçeye çevirir: arayüz, yaratık ve NPC adları, eşya adları ve eşya ipuçları. Oyun dosyalarına dokunmaz; yalnızca ekranda gördüğün yazıyı değiştirir ve istediğin an İngilizceye dönebilirsin.
 
-> **4.0.0 ile proje yeniden yazıldı.** Çeviriler sıfırdan, adım adım ekleniyor. Görev, NPC konuşması, büyü, kitap ve altyazı çevirileri bu sürümde yok; sonraki sürümlerde yeniden gelecek.
 
 ### 📜 Neler çevriliyor
 
@@ -19,9 +18,9 @@ Kişi, yer, sınıf ve boss adları İngilizce kalır. Lonca adlarına ve oyuncu
 
 Eklenti tam Türkçe destekli yazı tipleriyle gelir; ğ, ş, ı ve İ harfleri asla kare görünmez. Diğer Türkçe eklentilerdeki harfleri de düzeltir.
 
-### ⌨️ İngilizcesi için Alt'ı basılı tut
+### ⌨️ İngilizcesi için Alt tuşuna basılı tut
 
-Alt'ı basılı tuttuğun sürece arayüz yazıları İngilizce görünür, bırakınca Türkçe geri gelir. İngilizce bir rehberi takip ederken ya da bir oyuncuyla görev hakkında konuşurken çok işe yarar.
+Alt tuşuna basılı tuttuğun sürece arayüz yazıları İngilizce görünür, bırakınca Türkçe geri gelir. İngilizce bir rehberi takip ederken ya da bir oyuncuyla görev hakkında konuşurken çok işe yarar.
 
 ![Türkçe ve İngilizce yan yana](gorseller/alt-ingilizce.jpg)
 
@@ -36,15 +35,6 @@ Alt'ı basılı tuttuğun sürece arayüz yazıları İngilizce görünür, bır
 Ayarları Oyun Menüsü > Ayarlar > AddOns > WoWTürkçe'den ya da minimap düğmesine sol tıklayarak açabilirsin. Her bölüm ayrı ayrı açılıp kapatılabilir.
 
 ![Ayarlar paneli](gorseller/ayarlar.jpg)
-
-| Komut | Ne yapar |
-| --- | --- |
-| /wtr | Durum ve yardım |
-| /wtr ayar | Ayarlar panelini aç |
-| /wtr tr, /wtr en | Türkçeyi aç ya da her şeyi İngilizce göster |
-| /wtr pencere sifirla | Taşınan pencereleri eski yerine döndür |
-| /wtr paylas | Çevrilmemiş metinleri yapımcıya gönder |
-| /wt yaratik, /wt esya | Yaratık ya da eşya çevirisini aç/kapat |
 
 Minimap düğmesi: sol tık ayarları açar, sağ tık Türkçe ile İngilizce arasında geçer, Shift+sol tık çevrilmemiş metinleri gönderir.
 
@@ -62,4 +52,5 @@ Eklenti henüz çeviremediği bir metinle karşılaşınca onu kaydeder; oyuncu 
 
 ### ❤️ Teşekkürler
 
-Yapımcı: Erkin Azcan. Yazı tipleri: Caladea ve Carlito (SIL Open Font License 1.1). Sıkıştırma: LibDeflate. Forever görev ve konuşma metinlerinin bir kısmı Efficient Games'in EG Link veri setinden alınmıştır (CC BY 4.0).
+Yapımcı: Erkin Azcan
+erkinazcan@gmail.com
