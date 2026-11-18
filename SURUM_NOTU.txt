@@ -1,3 +1,14 @@
+Sürüm 5.1.6
+- Görevler: bütün görevlerin başlıkları, hedefleri, açıklamaları, ilerleme ve tamamlama metinleri Türkçe (5.293 görev, Forever'a özel görevler dahil). Görev günlüğü, harita görev listesi, takip listesi ve Questie ile uyumlu; Questie kategori başlıkları ("Aşçılık +") da Türkçe.
+- Büyüler: Forever büyü adları ve açıklamaları; büyü kitabı ve yetenek ağacı dal başlıkları (Disiplin, Kutsal, Gölge Sihri...) her zaman Türkçe.
+- Eşyalar: karşılaştırma ipucu (Kuşanılan) artık titremeden Türkçe: Ruha Bağlı, Satış Fiyatı, "Bu eşyayı değiştirirsen..." ve değer farkı satırları.
+- NPC konuşmaları, sözler, kitaplar, başarımlar, etkileşimli nesneler, şehir mekân adları, sinematik altyazıları ve sistem/sohbet mesajları (itibar, deneyim vb.) geri geldi.
+- Arayüz pencere çevirileri (oyun menüsü, büyü kitabı, binekler, grup arama...) yeniden eklendi.
+- Bütün metinler özgün çeviri: başka bir Türkçe yama projesiyle birebir aynı olan metinler yeniden yazıldı.
+- Bekleme sürelerinde "Sa" yerine "Saat".
+- Kolaylıklar: Tahmini uçuş süresi ayarlarda; aktarmalı rotalar bilinen bölümlerden, bilinmeyenler kıtaya göre kalibre edilen modelden daha tutarlı hesaplanır.
+- Oyuncuların gönderdiği çevrilmemiş metinler çevrildi.
+
 Sürüm 4.0.0
 - Proje yeniden yazıldı. Çeviriler sıfırdan, adım adım ekleniyor.
 - Yaratık ve NPC adları ile unvanları Türkçe (hedef, isim plakası, ipucu).
