@@ -60,31 +60,6 @@ Eklenti henüz çeviremediği bir metinle karşılaşınca onu kaydeder; oyuncu 
 
 > Windows "bilinmeyen yayıncı" uyarısı verebilir; program imzasız olduğu için bu normaldir.
 
-### 🧩 Türkçe eklenti paketi (WoWTurkceAddonlar)
-
-WoWTürkçe hızlı kalsın diye diğer eklentileri kendisi çevirmez. Onların Türkçe dosyaları kendi sürüm numarası olan ayrı bir paketle gelir: **WoWTurkceAddonlar**.
-
-| Grup | Eklentiler |
-| --- | --- |
-| Görev ve harita | Questie, QuestieTrace, TomTom, Leatrix_Maps, ForeverDungeonJournal |
-| Raid ve zindan | BigWigs, DBM-Core, DBM-GUI, Capping |
-| Birim çerçeveleri ve iyileştirme | ZPerl (ZPerl_Options, ZPerl_RaidAdmin, ZPerl_RaidFrames, ZPerl_RaidHelper, ZPerl_RaidMonitor ile), VuhDo, VuhDoOptions, IceHUD |
-| Hasar ölçerler | Details (Details_Compare2, Details_EncounterDetails, Details_RaidCheck, Details_Streamer, Details_TinyThreat, Details_Vanguard ile) |
-| Çanta, mezat ve ganimet | Baganator, Syndicator, Auctionator, AtlasLootClassic, AtlasLootContinued, AtlasBIStooltips |
-| Arayüz ve sohbet | Bartender4, MoveAny, MinimapButtonButton, Prat-3.0 |
-| Balıkçılık | ForeverFishing, BetterFishing |
-
-Nasıl kurulur:
-
-1. İstediğin eklentileri her zamanki gibi kur. Pakette eklentilerin kendisi yok, yalnızca çevrilmiş dosyaları var.
-2. Bu sayfadan en güncel `WoWTurkceAddonlar-<sürüm>.zip` dosyasını indir.
-3. Zip'i aç ve içindeki klasörleri `World of Warcraft\_forever_\Interface\AddOns` içine kopyala. Windows sorunca "Değiştir"i seç.
-4. Oyunu başlat ya da /reload yaz. Sende kurulu olmayan eklentilerin dosyaları bir şey yapmaz.
-
-Dosyalar paketin hazırlandığı andaki eklenti sürümlerine göredir. Bir eklenti hata verirse o eklentiyi yeniden kurman yeterli, İngilizce hali geri gelir. Bir eklentiyi güncellediğinde Türkçe dosyaları da silinir; güncellemeden sonra paketi yeniden kopyala.
-
-![Çevrilmiş eklenti penceresi](gorseller/eklenti.jpg)
-
 ### ❤️ Teşekkürler
 
 Yapımcı: Erkin Azcan. Yazı tipleri: Caladea ve Carlito (SIL Open Font License 1.1). Sıkıştırma: LibDeflate. Forever görev ve konuşma metinlerinin bir kısmı Efficient Games'in EG Link veri setinden alınmıştır (CC BY 4.0).
