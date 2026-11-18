@@ -1,3 +1,19 @@
+Sürüm 5.3.1
+- Meslek penceresi: "Gerekli: Demirci Ocağı" satırı artık "Forge" ile gidip gelmiyor; tarif açıklamaları (eritme vb.) Türkçe.
+- Eşya ipuçları: büyü türleri Türkçe ("42 Fire hasarı" yerine "42 Ateş hasarı"; Ayaz, Doğa, Gölge, Gizemli, Kutsal).
+- Zindan ve savaş: oyunun eklentilere kapattığı bilgiler yüzünden çıkan "eklentiler çok hata veriyor" uyarısı giderildi.
+- Alt tuşu: basılı tutunca sohbet penceresindeki görev bağlantıları, NPC sözleri ve sistem mesajları da İngilizce görünür.
+- NPC sözleri: içinde yaratık adı geçen cümleler çevriliyor ("Deal with this Deviate Guardian!"); Wailing Caverns Naralex etkinliği metinleri eklendi.
+- Görev günlüğü: görev bitince çıkan son hedef satırları ("... hakkında Ratchet'ta biriyle konuş") Türkçe.
+- Sohbet: grup rolü değişimi ("artık Hasar"), konuşma seçenekleri ("Beni eğit.") ve muhafız yönlendirme seçenekleri Türkçe.
+- Auctionator satış sekmesi çanta grup başlıkları Türkçe (Silah, Zırh, Tüketilebilir, Ticaret Malları...).
+- ZPerl "- TEHDİT -" uyarısında İ harfi düzgün görünüyor.
+
+Eklenti paketi 1.0.3
+- Güncellenen eklentiler (Questie, ForeverDungeonJournal, Leatrix Maps, AtlasLoot, MoveAny) yeni sürümlerine göre yeniden Türkçeleştirildi.
+- Yeni: DBM Vanilla zindanları ve dünya etkinlikleri, BigWigs Classic yetenek açıklamaları, DBM zamanlayıcı çubuğu, MinimapButtonButton mesajları.
+- ZPerl oyuncu çerçevesindeki bir hata düzeltildi.
+
 Sürüm 5.1.6
 - Görevler: bütün görevlerin başlıkları, hedefleri, açıklamaları, ilerleme ve tamamlama metinleri Türkçe (5.293 görev, Forever'a özel görevler dahil). Görev günlüğü, harita görev listesi, takip listesi ve Questie ile uyumlu; Questie kategori başlıkları ("Aşçılık +") da Türkçe.
 - Büyüler: Forever büyü adları ve açıklamaları; büyü kitabı ve yetenek ağacı dal başlıkları (Disiplin, Kutsal, Gölge Sihri...) her zaman Türkçe.
