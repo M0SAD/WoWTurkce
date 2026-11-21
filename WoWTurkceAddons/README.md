@@ -15,18 +15,15 @@ World of Warcraft: Forever için **Türkçeleştirilmiş eklenti paketi**. WoWTu
 
 ## İndir
 
-Paket GitHub'ın dosya boyutu sınırı nedeniyle parçalara ayrılmıştır. **Her parça tek başına açılabilir**; hepsini indirin.
+**[⬇️ WoWTurkceAddons-2026.11.21.zip — Google Drive](https://drive.google.com/file/d/1NWWwgKsv-vOX0iwt1UsfdjC02joMyV5h/view?usp=sharing)** (181 MB, tek parça)
 
-| Parça | İçerik | Boyut |
-|---|---|---|
-| [WoWTurkceAddons-2026.11.21-parca1.zip](paket/WoWTurkceAddons-2026.11.21-parca1.zip?raw=true) | AtlasBIStooltips … Details_Vanguard (70 eklenti) | 32.3 MB |
-| [WoWTurkceAddons-2026.11.21-parca2.zip](paket/WoWTurkceAddons-2026.11.21-parca2.zip?raw=true) | ForeverDungeonJournal | 68.2 MB |
-| [WoWTurkceAddons-2026.11.21-parca3.zip](paket/WoWTurkceAddons-2026.11.21-parca3.zip?raw=true) | ForeverFishing … ZPerl_TargetTarget (43 eklenti) | 75.8 MB |
+> Google Drive büyük dosyalarda "virüs taraması yapılamadı" uyarısı gösterebilir; **Yine de indir** deyin.
+
 
 ## Kurulum
 
 1. Oyunu kapatın.
-2. Bütün parçaları indirip açın (Windows'ta sağ tık → **Tümünü ayıkla**).
+2. Zip dosyasını indirip açın (Windows'ta sağ tık → **Tümünü ayıkla**).
 3. Açılan `WoWTurkceAddons` klasörünün **içindeki** klasörleri şuraya kopyalayın:  
    `World of Warcraft\_forever_\Interface\AddOns`
 4. Aynı adlı klasörlerin üzerine yazılmasını onaylayın ve oyunu başlatın.
