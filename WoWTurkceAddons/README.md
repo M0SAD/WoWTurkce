@@ -8,14 +8,14 @@ World of Warcraft: Forever için **Türkçeleştirilmiş eklenti paketi**. WoWTu
 
 | | |
 |---|---|
-| **Paket sürümü** | `2026.11.21-1` |
+| **Paket sürümü** | `2026.11.21-2` |
 | **Tarih** | 21 Kasım 2026 |
 | **Eklenti sayısı** | 115 |
 | **Türkçeleştirilen eklenti** | 47 |
 
 ## İndir
 
-**[⬇️ WoWTurkceAddons-2026.11.21-1.zip — Google Drive](https://drive.google.com/file/d/1CYWpP8bYUsPIMl8fFx_ISr7GQYJdu5UB/view?usp=sharing)** (176 MB, tek parça)
+**[⬇️ WoWTurkceAddons-2026.11.21-2.zip — Google Drive](https://drive.google.com/file/d/1TV9lpisa8_346i2GMIlsM5c8JYYotXg9/view?usp=sharing)** (187 MB, tek parça)
 
 > Google Drive büyük dosyalarda "virüs taraması yapılamadı" uyarısı gösterebilir; **Yine de indir** deyin.
 
@@ -34,9 +34,9 @@ World of Warcraft: Forever için **Türkçeleştirilmiş eklenti paketi**. WoWTu
 
 | Eklenti | Sürüm | Türkçe |
 |---|---|---|
-| AbsoluteLeveling | `1.9.6` | ✅ Türkçe |
+| AbsoluteLeveling | `1.9.7` | ✅ Türkçe |
 | AtlasBIStooltips | `1.0.1` | ✅ Türkçe |
-| AtlasLootClassic | `v1.4.5` | ✅ Türkçe |
+| AtlasLootClassic | `v1.4.6` | ✅ Türkçe |
 | AtlasLootClassic_Collections | `Forever 1.60.1` | 🔹 AtlasLootClassic üzerinden Türkçe |
 | AtlasLootClassic_Crafting | `Forever 1.60.1` | 🔹 AtlasLootClassic üzerinden Türkçe |
 | AtlasLootClassic_Data | `Forever 1.60.1` | 🔹 AtlasLootClassic üzerinden Türkçe |
@@ -44,16 +44,16 @@ World of Warcraft: Forever için **Türkçeleştirilmiş eklenti paketi**. WoWTu
 | AtlasLootClassic_Factions | `Forever 1.60.1` | 🔹 AtlasLootClassic üzerinden Türkçe |
 | AtlasLootClassic_Options | `Forever 1.60.1` | 🔹 AtlasLootClassic üzerinden Türkçe |
 | AtlasLootClassic_PvP | `Forever 1.60.1` | 🔹 AtlasLootClassic üzerinden Türkçe |
-| AtlasLootContinued | `12981` | ✅ Türkçe |
-| AtlasLootContinued_BiS | `12981` | 🔹 AtlasLootContinued üzerinden Türkçe |
-| AtlasLootContinued_Collections | `12981` | 🔹 AtlasLootContinued üzerinden Türkçe |
-| AtlasLootContinued_Crafting | `12981` | 🔹 AtlasLootContinued üzerinden Türkçe |
-| AtlasLootContinued_Data | `12981` | 🔹 AtlasLootContinued üzerinden Türkçe |
-| AtlasLootContinued_DungeonsAndRaids | `12981` | 🔹 AtlasLootContinued üzerinden Türkçe |
-| AtlasLootContinued_Factions | `12981` | 🔹 AtlasLootContinued üzerinden Türkçe |
-| AtlasLootContinued_Favourites | `12981` | 🔹 AtlasLootContinued üzerinden Türkçe |
-| AtlasLootContinued_Options | `12981` | 🔹 AtlasLootContinued üzerinden Türkçe |
-| AtlasLootContinued_PvP | `12981` | 🔹 AtlasLootContinued üzerinden Türkçe |
+| AtlasLootContinued | `12984` | ✅ Türkçe |
+| AtlasLootContinued_BiS | `12984` | 🔹 AtlasLootContinued üzerinden Türkçe |
+| AtlasLootContinued_Collections | `12984` | 🔹 AtlasLootContinued üzerinden Türkçe |
+| AtlasLootContinued_Crafting | `12984` | 🔹 AtlasLootContinued üzerinden Türkçe |
+| AtlasLootContinued_Data | `12984` | 🔹 AtlasLootContinued üzerinden Türkçe |
+| AtlasLootContinued_DungeonsAndRaids | `12984` | 🔹 AtlasLootContinued üzerinden Türkçe |
+| AtlasLootContinued_Factions | `12984` | 🔹 AtlasLootContinued üzerinden Türkçe |
+| AtlasLootContinued_Favourites | `12984` | 🔹 AtlasLootContinued üzerinden Türkçe |
+| AtlasLootContinued_Options | `12984` | 🔹 AtlasLootContinued üzerinden Türkçe |
+| AtlasLootContinued_PvP | `12984` | 🔹 AtlasLootContinued üzerinden Türkçe |
 | Auctionator | `349` | ✅ Türkçe |
 | Baganator | `867` | ✅ Türkçe |
 | Bartender4 | `4.19.2` | ✅ Türkçe |
@@ -105,7 +105,7 @@ World of Warcraft: Forever için **Türkçeleştirilmiş eklenti paketi**. WoWTu
 | Details_Streamer | — | ✅ Türkçe |
 | Details_TinyThreat | — | ✅ Türkçe |
 | Details_Vanguard | — | ✅ Türkçe |
-| ForeverDungeonJournal | `2.1.1` | ✅ Türkçe |
+| ForeverDungeonJournal | `2.1.2` | ✅ Türkçe |
 | ForeverFishing | `0.9.224` | ✅ Türkçe |
 | Leatrix_Maps | `1.60.35` | ✅ Türkçe |
 | LittleWigs | `v12.1.23` | 🔹 BigWigs üzerinden Türkçe |
