@@ -50,6 +50,10 @@ Eklenti henüz çeviremediği bir metinle karşılaşınca onu kaydeder; oyuncu 
 
 > Windows "bilinmeyen yayıncı" uyarısı verebilir; program imzasız olduğu için bu normaldir.
 
+### 🧩 Türkçe eklenti paketi
+
+Questie, Details, DBM, BigWigs, VuhDo, ZPerl, AtlasLoot, Leatrix Maps ve diğer eklentilerin Türkçeleştirilmiş hâlleri: **[WoWTurkceAddons](WoWTurkceAddons/README.md)** (hangi eklentinin hangi sürümde ve Türkçe olduğu orada yazar).
+
 ### ❤️ Teşekkürler
 
 Yapımcı: Erkin Azcan
