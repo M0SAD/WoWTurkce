@@ -8,14 +8,14 @@ World of Warcraft: Forever için **Türkçeleştirilmiş eklenti paketi**. WoWTu
 
 | | |
 |---|---|
-| **Paket sürümü** | `2026.11.21` |
+| **Paket sürümü** | `2026.11.21-1` |
 | **Tarih** | 21 Kasım 2026 |
-| **Eklenti sayısı** | 114 |
-| **Türkçeleştirilen eklenti** | 46 |
+| **Eklenti sayısı** | 115 |
+| **Türkçeleştirilen eklenti** | 47 |
 
 ## İndir
 
-**[⬇️ WoWTurkceAddons-2026.11.21.zip — Google Drive](https://drive.google.com/file/d/1NWWwgKsv-vOX0iwt1UsfdjC02joMyV5h/view?usp=sharing)** (181 MB, tek parça)
+**[⬇️ WoWTurkceAddons-2026.11.21-1.zip — Google Drive](https://drive.google.com/file/d/1CYWpP8bYUsPIMl8fFx_ISr7GQYJdu5UB/view?usp=sharing)** (176 MB, tek parça)
 
 > Google Drive büyük dosyalarda "virüs taraması yapılamadı" uyarısı gösterebilir; **Yine de indir** deyin.
 
@@ -34,6 +34,7 @@ World of Warcraft: Forever için **Türkçeleştirilmiş eklenti paketi**. WoWTu
 
 | Eklenti | Sürüm | Türkçe |
 |---|---|---|
+| AbsoluteLeveling | `1.9.6` | ✅ Türkçe |
 | AtlasBIStooltips | `1.0.1` | ✅ Türkçe |
 | AtlasLootClassic | `v1.4.5` | ✅ Türkçe |
 | AtlasLootClassic_Collections | `Forever 1.60.1` | 🔹 AtlasLootClassic üzerinden Türkçe |
@@ -127,6 +128,7 @@ World of Warcraft: Forever için **Türkçeleştirilmiş eklenti paketi**. WoWTu
 | Questie | `12.11.1` | ✅ Türkçe |
 | QuestieDB | `1.1.3` | ➖ Veri/ses paketi (çeviri gerekmez) |
 | QuestieTrace | `1.13.0` | ✅ Türkçe |
+| social_diary | `4.2.2` | ✅ Türkçe |
 | Syndicator | `292` | ✅ Türkçe |
 | TomTom | `v4.4.1-release` | ✅ Türkçe |
 | VuhDo | `3.221` | ✅ Türkçe |
@@ -147,7 +149,6 @@ World of Warcraft: Forever için **Türkçeleştirilmiş eklenti paketi**. WoWTu
 | ZPerl_RaidPets | — | 🔹 ZPerl üzerinden Türkçe |
 | ZPerl_Target | — | ✅ Türkçe |
 | ZPerl_TargetTarget | — | 🔹 ZPerl üzerinden Türkçe |
-| social_diary | `4.2.2` | ✅ Türkçe |
 
 ## Çeviri ilkeleri
 
